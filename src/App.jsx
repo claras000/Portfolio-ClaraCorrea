@@ -13,7 +13,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="Portfolio-ClaraCorrea/" element={<Layout />}>
+          <Route path="/Portfolio-ClaraCorrea/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route exact path="ÜberMich" element={<ÜberMich />} />
             <Route exact path="Kontakt" element={<Kontakt />} />

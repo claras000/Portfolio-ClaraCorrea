@@ -23,7 +23,11 @@ function Layout() {
       <div className="bg-lightgrey ">
         <div className="font-dmSans flex justify-between  w-full fixed z-10">
           {!isVisible && (
-            <a href={`/`} component="0" className="cursor-pointer">
+            <a
+              href={`/Portfolio-ClaraCorrea/`}
+              component="0"
+              className="cursor-pointer"
+            >
               <p className="m-5 font-extralight text-grey cursor-pointer ">
                 Portfolio 2024
               </p>

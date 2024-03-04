@@ -15,12 +15,12 @@ function App() {
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
-            <Route path="ÜberMich" element={<ÜberMich />} />
-            <Route path="Kontakt" element={<Kontakt />} />
-            <Route path="Agb" element={<Agb />} />
-            <Route path="Impressum" element={<Impressum />} />
-            <Route path="*" element={<NoPage />} />
-            <Route path="project/:projectId" element={<Project />} />
+            <Route exact path="ÜberMich" element={<ÜberMich />} />
+            <Route exact path="Kontakt" element={<Kontakt />} />
+            <Route exact path="Agb" element={<Agb />} />
+            <Route exact path="Impressum" element={<Impressum />} />
+            <Route exact path="*" element={<NoPage />} />
+            <Route exact path="project/:projectId" element={<Project />} />
           </Route>
         </Routes>
       </BrowserRouter>

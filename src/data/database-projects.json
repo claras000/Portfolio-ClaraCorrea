@@ -9,23 +9,23 @@
       "imageAltText1": "Plakate der Austellung Protestar",
       "projectDetails": [
         [
-          "./assets/images/portfolio/protestar02.jpg",
+          "../assets/images/portfolio/protestar02.jpg",
           "Buchseiten von Inhaltsverzeichnis"
         ],
         [
-          "./assets/images/portfolio/protestar03.jpg",
+          "../assets/images/portfolio/protestar03.jpg",
           "Buchseiten mit Fotografie von Plakatwand"
         ],
         [
-          "./assets/images/portfolio/protestar04.jpg",
+          "../assets/images/portfolio/protestar04.jpg",
           "Buch mit kleinen selbstgestallteten einlegern"
         ],
         [
-          "./assets/images/portfolio/protestar05.jpg",
+          "../assets/images/portfolio/protestar05.jpg",
           "Plakate der Austellung Protestar"
         ],
         [
-          "./assets/images/portfolio/protestar06.jpg",
+          "../assets/images/portfolio/protestar06.jpg",
           "Webseite der Jahresaustellung mit Projekt Protestar"
         ]
       ],

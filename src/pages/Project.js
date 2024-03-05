@@ -20,7 +20,11 @@ const Project = () => {
   return (
     <div className=" font-dmSans relative z-0">
       <div className="md:grid md:grid-cols-4 pt-10 md:pt-52">
-        <a href={`/`} component="0" className="cursor-pointer">
+        <Link
+          to="/Portfolio-ClaraCorrea/"
+          component="0"
+          className="cursor-pointer"
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
@@ -35,7 +39,7 @@ const Project = () => {
               d="M9 15 3 9m0 0 6-6M3 9h12a6 6 0 0 1 0 12h-3"
             />
           </svg>
-        </a>
+        </Link>
         <div className=" ">
           <h1 className="font-bold uppercase text-2xl ">
             {Data.project[id].title}

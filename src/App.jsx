@@ -4,7 +4,7 @@ import ÜberMich from "./pages/ÜberMich";
 import Kontakt from "./pages/Kontakt";
 import NoPage from "./pages/NoPage";
 import Layout from "./pages/Layout";
-import Project from "./pages/Project";
+import Projects from "./pages/Project";
 import Impressum from "./pages/Impressum";
 import Agb from "./pages/Abg";
 
@@ -34,8 +34,8 @@ function App() {
             <Route exact path="*" element={<NoPage />} />
             <Route
               exact
-              path="Portfolio-ClaraCorrea/Project/:projectId"
-              element={<Project />}
+              path="Portfolio-ClaraCorrea/Projects/:projectId"
+              element={<Projects />}
             />
           </Route>
         </Routes>

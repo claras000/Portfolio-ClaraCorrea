@@ -143,8 +143,8 @@ const Home = () => {
                 >
                   0{project.id + 1}
                 </h2>
-                <a
-                  href={`Portfolio-ClaraCorrea/project/${project.id}`}
+                <Link
+                  to={`/Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
                 >
@@ -178,7 +178,7 @@ const Home = () => {
                       />
                     </svg>
                   </div>
-                </a>
+                </Link>
                 <p className=" max-w-xs mt-4 font-extralight">{project.text}</p>
                 <div className="mt-8">
                   {project.labels.map((label, labelIndex) => (
@@ -204,8 +204,8 @@ const Home = () => {
                 className={`md:m-20 mt-6  relative  md:w-3/4 w-full   overflow-hidden aspect-square  rounded-xl hover:shadow-md transition duration-300 ease-in-out cursor-pointer
  ${index % 2 !== 0 ? "ml-auto md:ml-20" : " ml-auto"}`}
               >
-                <a
-                  href={`/Portfolio-ClaraCorrea/project/${project.id}`}
+                <Link
+                  to={`/Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
                 >
@@ -220,7 +220,7 @@ const Home = () => {
                         hoveredIndex === index ? "scale(1.07)" : "scale(1)",
                     }}
                   />
-                </a>
+                </Link>
               </div>
             </div>
           </div>

@@ -73,7 +73,7 @@ function Footer() {
             </p>
             <img
               className="float-end w-1/2 h-auto pt-10 mr-20"
-              src="../assets/images/kopfhörer.png"
+              src="./assets/images/kopfhörer.png"
               alt="Illustration-Computerzubehör"
             ></img>
           </div>

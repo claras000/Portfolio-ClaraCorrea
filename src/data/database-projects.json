@@ -5,27 +5,27 @@
       "title": "Protestar",
       "text": "„Menschen vernetzen sich neu und erobern die Straße. Die Arbeit „PROTESTAR“ beschäftigt sich mit dem politisch-sozialem Protest in Chile. Der Aufbruch in dem Land bietet Parallelen zu vielen anderen Orten – wie Hongkong, Libanon, Irak und jetzt in den USA, wo Menschen genug haben von Diskriminierung und Ungleichheiten.",
       "labels": ["online-exhebition", "BA-Thesis"],
-      "image1": "../assets/images/portfolio/protestar01.jpg",
+      "image1": "./assets/images/portfolio/protestar01.jpg",
       "imageAltText1": "Plakate der Austellung Protestar",
       "projectDetails": [
         [
-          "../assets/images/portfolio/protestar02.jpg",
+          "./assets/images/portfolio/protestar02.jpg",
           "Buchseiten von Inhaltsverzeichnis"
         ],
         [
-          "../assets/images/portfolio/protestar03.jpg",
+          "./assets/images/portfolio/protestar03.jpg",
           "Buchseiten mit Fotografie von Plakatwand"
         ],
         [
-          "../assets/images/portfolio/protestar04.jpg",
+          "./assets/images/portfolio/protestar04.jpg",
           "Buch mit kleinen selbstgestallteten einlegern"
         ],
         [
-          "../assets/images/portfolio/protestar05.jpg",
+          "./assets/images/portfolio/protestar05.jpg",
           "Plakate der Austellung Protestar"
         ],
         [
-          "../assets/images/portfolio/protestar06.jpg",
+          "./assets/images/portfolio/protestar06.jpg",
           "Webseite der Jahresaustellung mit Projekt Protestar"
         ]
       ],
@@ -47,22 +47,22 @@
       "title": "EcoPawPrint App",
       "text": "Screendesign und Konzeption der App wurde mit dem Tool Figma umgesetzt. Die Idee ist eine mobile App, die die Fortbewegung des Users misst und auswertet. Sie berechnet die CO2 Bilanz für ein Fahrzeug.",
       "labels": ["UX/UI Design", "Mobile App"],
-      "image1": "../assets/images/portfolio/ecopawprint01.png",
+      "image1": "./assets/images/portfolio/ecopawprint01.png",
       "imageAltText1": "App Mockup ecopawprint",
       "projectDetails": [
         [
-          "../assets/images/portfolio/ecopawprint02.png",
+          "./assets/images/portfolio/ecopawprint02.png",
           "App Mockup ecopawprint"
         ],
         [
-          "../assets/images/portfolio/ecopawprint03.png",
+          "./assets/images/portfolio/ecopawprint03.png",
           "App Mockup ecopawprint"
         ],
         [
-          "../assets/images/portfolio/ecopawprint04.png",
+          "./assets/images/portfolio/ecopawprint04.png",
           "App Mockup ecopawprint"
         ],
-        ["../assets/images/portfolio/ecopawprint05.gif", "GIF Eisbär"]
+        ["./assets/images/portfolio/ecopawprint05.gif", "GIF Eisbär"]
       ],
       "detailtext01": "Das UI Design ist eine App für Nachhaltigkeit zum einsparen von CO² beim Reisen. Spielerisch über ein virtuelles Haustier hat der User Zugang zu seinen Daten und wird dazu angeregt, seine Verhaltensweisen zu ändern",
       "linklist": [
@@ -81,19 +81,19 @@
       "title": "Projekt Milchkampagne",
       "text": "In Deutschland konsumieren wir viele Milchprodukte. Eine kleine Milchgeschichte beschäftigt sich spielerisch mit der Wissenskommunkation zum Thema Milchproduktion. Wissenschaft kann Spaß machen und muss nicht trocken sein. Illustrativ und anschaulich werden Infografiken und Facts herübergebracht.",
       "labels": ["Grafikdesign", "Illustration"],
-      "image1": "../assets/images/portfolio/kuhplakat01.jpg",
+      "image1": "./assets/images/portfolio/kuhplakat01.jpg",
       "imageAltText1": "Magazin Milchkampagne Plakat und Plakate",
       "projectDetails": [
         [
-          "../assets/images/portfolio/kuhplakat02.jpg",
+          "./assets/images/portfolio/kuhplakat02.jpg",
           "Magazin Milchkampagne Plakat und Plakate"
         ],
         [
-          "../assets/images/portfolio/kuhplakat03.jpg",
+          "./assets/images/portfolio/kuhplakat03.jpg",
           "Milchkampagne Plakate Frontseite und Innenseiten"
         ],
         [
-          "../assets/images/portfolio/kuhplakat04.jpg",
+          "./assets/images/portfolio/kuhplakat04.jpg",
           "Milchkampagne Plakate mit Titel Als die Milch ihre Unschuld verlohr"
         ]
       ],
@@ -105,19 +105,19 @@
       "title": "Zweimann Handwerk",
       "text": "Für die selbstständigen Handwerker von Zweimannhandwerk in Bremen habe ich einen Onlineauftritt gestaltet und umgesetzt. Durch engmaschigen Austausch mit dem Kunden, habe ich ein individuell maßgeschneidertes Produkt kreiert.",
       "labels": ["Boostrap", "Webentwicklung"],
-      "image1": "../assets/images/portfolio/zweimannHandwerk01.png",
+      "image1": "./assets/images/portfolio/zweimannHandwerk01.png",
       "imageAltText1": "Webseite Zweimannhandwerk Übersicht",
       "projectDetails": [
         [
-          "../assets/images/portfolio/zweimannHandwerk02.png",
+          "./assets/images/portfolio/zweimannHandwerk02.png",
           "Webseite Handwerk Zweimannhandwerk Übersicht"
         ],
         [
-          "../assets/images/portfolio/zweimannHandwerk03.png",
+          "./assets/images/portfolio/zweimannHandwerk03.png",
           "Webseite Handwerk Zweimannhandwerk Über Uns"
         ],
         [
-          "../assets/images/portfolio/zweimannHandwerk04.png",
+          "./assets/images/portfolio/zweimannHandwerk04.png",
           "Webseite Handwerk Zweimannhandwerk Header und Unsere Leistungen"
         ]
       ],
@@ -132,21 +132,18 @@
       "title": "WetterFühlIch",
       "text": "Unsere Wetter-Tagebuch App ist eine Achtsamkeits- App, mit welcher man seine Stimmungen und Wettereindrücke visuell mit Hilfe von Farben lesen und zum Ausdruck bringt. Die Mobile Webanwendung ist besonders an Gestalter*innen und Kreative gerichtet. ",
       "labels": ["UX/UI Design", "React JS", "Coding"],
-      "image1": "../assets/images/portfolio/wetterfühlich01.png",
+      "image1": "./assets/images/portfolio/wetterfühlich01.png",
       "imageAltText1": "Wetter App Screendesign Tagebuch Übersicht",
       "projectDetails": [
         [
-          "../assets/images/portfolio/wetterfühlich02.png",
+          "./assets/images/portfolio/wetterfühlich02.png",
           "Wetter App Screendesign Farbauswahl Überwicht"
         ],
         [
-          "../assets/images/portfolio/wetterfühlich03.png",
+          "./assets/images/portfolio/wetterfühlich03.png",
           "Wetterapp Mockup Übersicht Einträge"
         ],
-        [
-          "../assets/images/portfolio/wetterfühlich04.png",
-          "Wetterapp im Server"
-        ]
+        ["./assets/images/portfolio/wetterfühlich04.png", "Wetterapp im Server"]
       ],
       "detailtext01": "Mit Unserer React JS App wollen wir ganzheitliche Reflektion und im besten Fall ein Umschreiben der eigenen, auch kulturell geprägten, Stereotype in der Wetter- und Farbwarnehmung bewirken. Tagebucheinträge lassen sich speichern und Man kann individuell die Farben je nach aktueller Temperatur, Windstärke und Regen. Über eine API wird das aktuelle Wetter gefeched und über einen Algorythmus in Farben umgewandelt.",
       "linklist": [
@@ -161,19 +158,19 @@
       "title": "ARTESANA",
       "text": "Für die Schmuckgestalterin Artesana entwickelte ich ein Branding einschließlich eines Markenprofils und eines Internetauftritts bei Instagram und Etsy.",
       "labels": ["Grafikdesign", "Corporate Identity"],
-      "image1": "../assets/images/portfolio/artesana01.jpg",
+      "image1": "./assets/images/portfolio/artesana01.jpg",
       "imageAltText1": "Artesana Instagramposts Übersicht Mockup",
       "projectDetails": [
         [
-          "../assets/images/portfolio/artesana02.png",
+          "./assets/images/portfolio/artesana02.png",
           "Artesana Instagramposts Übersicht"
         ],
         [
-          "../assets/images/portfolio/artesana03.jpg",
+          "./assets/images/portfolio/artesana03.jpg",
           "Artesana Instagramposts Übersicht Mockup"
         ],
-        ["../assets/images/portfolio/artesana04.jpg", "Artesana Visitenkarten"],
-        ["../assets/images/portfolio/artesana05.png", "Artesana Etsyshop"]
+        ["./assets/images/portfolio/artesana04.jpg", "Artesana Visitenkarten"],
+        ["./assets/images/portfolio/artesana05.png", "Artesana Etsyshop"]
       ],
       "detailtext01": "Ich entwickelte ich ein professionelles Verpackungsdesign mit individueller Note. Dazu gehört auch ein Linie von Produktphotos, welche sich ins Konzept eingliedern. Die Formsprache ist inspiriert von andinen, indigenen Mustern ganz im Stil des Schmucks und hat eine rustikale Konnotation.",
       "linklist": [
@@ -185,19 +182,19 @@
       "title": "MEMOIRES",
       "text": "Das Memoriespiel MEMOIRES ist eine Webanwendung mit Datenbankeinbindung. Künstler*innen müssen ihren Kunstwerken zugeordnet werden. Auf spielerische Weise kann so neues Wissen erworben werden.",
       "labels": ["Webentwicklung", "Datenbanken"],
-      "image1": "../assets/images/portfolio/memoires01.png",
+      "image1": "./assets/images/portfolio/memoires01.png",
       "imageAltText1": "Memoires Memorie-Onlinespiel Startseite",
       "projectDetails": [
         [
-          "../assets/images/portfolio/memoires02.png",
+          "./assets/images/portfolio/memoires02.png",
           "Memoires Memorie-Onlinespiel webseite Spiel"
         ],
         [
-          "../assets/images/portfolio/memoires03.png",
+          "./assets/images/portfolio/memoires03.png",
           "Memoires Memorie-Onlinespiel webseite Spiel Punktestand"
         ],
         [
-          "../assets/images/portfolio/memoires04.png",
+          "./assets/images/portfolio/memoires04.png",
           "Memoires Memorie-Onlinespiel webseite Datenbankinhalt"
         ]
       ],

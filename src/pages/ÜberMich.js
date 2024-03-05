@@ -7,7 +7,7 @@ const ÜberMich = () => {
       <div className="w-full min-h-min  md:grid md:grid-cols-2 md:p-0 md:pt-36 p-5  pt-24 font-dmSans relative z-0">
         <div className="m-20 mt-0 ml-auto relative group md:w-2/4 w-full overflow-hidden aspect-square  rounded-xl transition duration-300 ease-in-out cursor-pointer ">
           <img
-            src="../assets/images/clara-correa-profil.jpg"
+            src="./assets/images/clara-correa-profil.jpg"
             alt="clara correa Profilbild"
             className={`object-cover w-full h-auto aspect-square group-hover:scale-110 transition duration-300 ease-in-out`}
           />

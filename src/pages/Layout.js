@@ -23,11 +23,7 @@ function Layout() {
       <div className="bg-lightgrey ">
         <div className="font-dmSans flex justify-between  w-full fixed z-10">
           {!isVisible && (
-            <a
-              href={`/Portfolio-ClaraCorrea/`}
-              component="0"
-              className="cursor-pointer"
-            >
+            <a href={`/`} component="0" className="cursor-pointer">
               <p className="m-5 font-extralight text-grey cursor-pointer ">
                 Portfolio 2024
               </p>
@@ -94,7 +90,7 @@ function Layout() {
                 <ul className=" ">
                   <li className="">
                     <Link
-                      to="/Portfolio-ClaraCorrea/"
+                      to="/"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -103,7 +99,7 @@ function Layout() {
                   </li>
                   <li className="md:pt-10">
                     <Link
-                      to="/Portfolio-ClaraCorrea/ÜberMich"
+                      to="/ÜberMich"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -112,7 +108,7 @@ function Layout() {
                   </li>
                   <li className="md:pt-10">
                     <Link
-                      to="/Portfolio-ClaraCorrea/Kontakt"
+                      to="/Kontakt"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -123,14 +119,14 @@ function Layout() {
                 <div className="md:flex pt-10 font-thin text-sm uppercase md:text-white">
                   <a
                     className="hover:cursor-pointer  md:hover:text-green"
-                    href="/Portfolio-ClaraCorrea/Agb"
+                    href="/Agb"
                   >
                     AGB
                   </a>
 
                   <a
                     className="hover:cursor-pointer pl-4  md:hover:text-green"
-                    href="/Portfolio-ClaraCorrea/Impressum"
+                    href="/Impressum"
                   >
                     Impressum
                   </a>

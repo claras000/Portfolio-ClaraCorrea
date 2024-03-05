@@ -34,7 +34,7 @@ function App() {
             <Route exact path="*" element={<NoPage />} />
             <Route
               exact
-              path="Portfolio-ClaraCorrea/Project/:projectId"
+              path="Portfolio-ClaraCorrea/Project"
               element={<Project />}
             />
           </Route>

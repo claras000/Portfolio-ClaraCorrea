@@ -205,7 +205,7 @@ const Home = () => {
  ${index % 2 !== 0 ? "ml-auto md:ml-20" : " ml-auto"}`}
               >
                 <a
-                  href={`/project/${project.id}`}
+                  href={`/Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
                 >

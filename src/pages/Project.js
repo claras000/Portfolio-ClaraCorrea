@@ -1,6 +1,7 @@
 import Data from "../data/database-projects.json";
 import { useParams } from "react-router-dom";
 import Footer from "../components/Footer";
+import { Link } from "react-router-dom";
 
 const Project = () => {
   const { projectId } = useParams();

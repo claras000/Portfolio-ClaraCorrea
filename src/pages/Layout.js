@@ -62,7 +62,7 @@ function Layout() {
         {isVisible && (
           <div className="left-2/3 md:top-1/3 h-screen max-w-screen-lg md:pt-14 absolute z-0 hidden md:block">
             <img
-              src="../assets/images/maus.png"
+              src="./assets/images/maus.png"
               alt="Illustration-Computerzubehör"
             ></img>
           </div>

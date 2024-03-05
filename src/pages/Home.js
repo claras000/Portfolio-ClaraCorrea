@@ -101,7 +101,7 @@ const Home = () => {
         </div>
         <div className="left-2/3 top-1/3 h-screen max-w-screen-lg md:pt-14 absolute z-0 ">
           <img
-            src=".../assets/images/maushell.png"
+            src="/assets/images/maushell.png"
             alt="Illustration-Computerzubehör"
             className="hidden md:block "
           ></img>

@@ -57,7 +57,7 @@ const Home = () => {
             Grafik | UI/UX Design | Coding
           </h4>
           <div className="flex">
-            <Link to="/Kontakt">
+            <Link to="/Portfolio-ClaraCorrea/Kontakt">
               <button className="flex items-center ml-0 px-4 pb-1.5 pt-2 md:text-lg  leading-normal  hover:animate-bounce text-white  bg-green hover:shadow-xl hover:bg-graugrün  text-emerald-100   rounded-full mt-10">
                 Schreib mir!
                 <svg

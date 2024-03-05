@@ -144,7 +144,7 @@ const Home = () => {
                   0{project.id + 1}
                 </h2>
                 <a
-                  href={`Portfolio-ClaraCorrea//project/${project.id}`}
+                  href={`Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
                 >

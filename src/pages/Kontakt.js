@@ -20,7 +20,7 @@ const Kontakt = () => {
               <div className="rounded-lg overflow-hidden">
                 <div className="md:mx-20  mt-0 ml-auto relative group md:w-4/5 w-full overflow-hidden aspect-square bg-greenLight rounded-xl hover:shadow-md transition duration-300 ease-in-out cursor-pointer hidden md:block">
                   <img
-                    src="./assets/images/bremen.png"
+                    src="./assets/images/Bremen.png"
                     alt="clara correa Profilbild"
                     className={`object-cover w-full h-auto aspect-square group-hover:scale-110 transition duration-300 ease-in-out`}
                   />

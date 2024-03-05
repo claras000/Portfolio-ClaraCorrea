@@ -20,7 +20,7 @@ function Footer() {
               <li className="my-2 ">
                 <Link
                   className="hover:text-green cursor-pointer"
-                  to="/"
+                  to="/Portfolio-ClaraCorrea/"
                   onClick={scrollToTop}
                 >
                   Portfolio
@@ -29,7 +29,7 @@ function Footer() {
               <li className="my-2">
                 <Link
                   className="hover:text-green cursor-pointer"
-                  to="/ÜberMich"
+                  to="/Portfolio-ClaraCorrea/ÜberMich"
                   onClick={scrollToTop}
                 >
                   Über Mich
@@ -38,7 +38,7 @@ function Footer() {
               <li className="my-2">
                 <Link
                   className="hover:text-green cursor-pointer"
-                  to="/Kontakt"
+                  to="/Portfolio-ClaraCorrea/Kontakt"
                   onClick={scrollToTop}
                 >
                   Kontakt
@@ -47,7 +47,7 @@ function Footer() {
               <li className="mt-5 font-extralight text-sm">
                 <Link
                   className="hover:text-green cursor-pointer"
-                  to="/Impressum"
+                  to="/Portfolio-ClaraCorrea/Impressum"
                   onClick={scrollToTop}
                 >
                   Impressum
@@ -56,7 +56,7 @@ function Footer() {
               <li className="my-2 font-extralight text-sm">
                 <Link
                   className="hover:text-green cursor-pointer"
-                  to="/Agb"
+                  to="/Portfolio-ClaraCorrea/Agb"
                   onClick={scrollToTop}
                 >
                   AGB

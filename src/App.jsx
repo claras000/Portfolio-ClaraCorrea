@@ -31,12 +31,12 @@ function App() {
               path="Portfolio-ClaraCorrea/Impressum"
               element={<Impressum />}
             />
-            <Route exact path="*" element={<NoPage />} />
             <Route
               exact
-              path="Portfolio-ClaraCorrea/Project/:Projectid"
+              path="Portfolio-ClaraCorrea/project/:projectId"
               element={<Project />}
             />
+            <Route exact path="Portfolio-ClaraCorrea/*" element={<NoPage />} />
           </Route>
         </Routes>
       </BrowserRouter>

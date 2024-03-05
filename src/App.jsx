@@ -14,11 +14,23 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Layout />}>
-            <Route index path="" element={<Home />} />
-            <Route exact path="ÜberMich" element={<ÜberMich />} />
-            <Route exact path="Kontakt" element={<Kontakt />} />
-            <Route exact path="Agb" element={<Agb />} />
-            <Route exact path="Impressum" element={<Impressum />} />
+            <Route index path="Portfolio-ClaraCorrea" element={<Home />} />
+            <Route
+              exact
+              path="Portfolio-ClaraCorrea/ÜberMich"
+              element={<ÜberMich />}
+            />
+            <Route
+              exact
+              path="Portfolio-ClaraCorrea/Kontakt"
+              element={<Kontakt />}
+            />
+            <Route exact path="Portfolio-ClaraCorrea/Agb" element={<Agb />} />
+            <Route
+              exact
+              path="Portfolio-ClaraCorrea/Impressum"
+              element={<Impressum />}
+            />
             <Route exact path="*" element={<NoPage />} />
             <Route exact path="project/:projectId" element={<Project />} />
           </Route>

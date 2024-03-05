@@ -51,18 +51,18 @@
       "imageAltText1": "App Mockup ecopawprint",
       "projectDetails": [
         [
-          "./assets/images/portfolio/ecopawprint02.png",
+          "../assets/images/portfolio/ecopawprint02.png",
           "App Mockup ecopawprint"
         ],
         [
-          "./assets/images/portfolio/ecopawprint03.png",
+          "../assets/images/portfolio/ecopawprint03.png",
           "App Mockup ecopawprint"
         ],
         [
-          "./assets/images/portfolio/ecopawprint04.png",
+          "../assets/images/portfolio/ecopawprint04.png",
           "App Mockup ecopawprint"
         ],
-        ["./assets/images/portfolio/ecopawprint05.gif", "GIF Eisbär"]
+        ["../assets/images/portfolio/ecopawprint05.gif", "GIF Eisbär"]
       ],
       "detailtext01": "Das UI Design ist eine App für Nachhaltigkeit zum einsparen von CO² beim Reisen. Spielerisch über ein virtuelles Haustier hat der User Zugang zu seinen Daten und wird dazu angeregt, seine Verhaltensweisen zu ändern",
       "linklist": [
@@ -85,15 +85,15 @@
       "imageAltText1": "Magazin Milchkampagne Plakat und Plakate",
       "projectDetails": [
         [
-          "./assets/images/portfolio/kuhplakat02.jpg",
+          "../assets/images/portfolio/kuhplakat02.jpg",
           "Magazin Milchkampagne Plakat und Plakate"
         ],
         [
-          "./assets/images/portfolio/kuhplakat03.jpg",
+          "../assets/images/portfolio/kuhplakat03.jpg",
           "Milchkampagne Plakate Frontseite und Innenseiten"
         ],
         [
-          "./assets/images/portfolio/kuhplakat04.jpg",
+          "../assets/images/portfolio/kuhplakat04.jpg",
           "Milchkampagne Plakate mit Titel Als die Milch ihre Unschuld verlohr"
         ]
       ],
@@ -109,15 +109,15 @@
       "imageAltText1": "Webseite Zweimannhandwerk Übersicht",
       "projectDetails": [
         [
-          "./assets/images/portfolio/zweimannHandwerk02.png",
+          "../assets/images/portfolio/zweimannHandwerk02.png",
           "Webseite Handwerk Zweimannhandwerk Übersicht"
         ],
         [
-          "./assets/images/portfolio/zweimannHandwerk03.png",
+          "../assets/images/portfolio/zweimannHandwerk03.png",
           "Webseite Handwerk Zweimannhandwerk Über Uns"
         ],
         [
-          "./assets/images/portfolio/zweimannHandwerk04.png",
+          "../assets/images/portfolio/zweimannHandwerk04.png",
           "Webseite Handwerk Zweimannhandwerk Header und Unsere Leistungen"
         ]
       ],
@@ -136,14 +136,17 @@
       "imageAltText1": "Wetter App Screendesign Tagebuch Übersicht",
       "projectDetails": [
         [
-          "./assets/images/portfolio/wetterfühlich02.png",
+          "../assets/images/portfolio/wetterfühlich02.png",
           "Wetter App Screendesign Farbauswahl Überwicht"
         ],
         [
-          "./assets/images/portfolio/wetterfühlich03.png",
+          "../assets/images/portfolio/wetterfühlich03.png",
           "Wetterapp Mockup Übersicht Einträge"
         ],
-        ["./assets/images/portfolio/wetterfühlich04.png", "Wetterapp im Server"]
+        [
+          "../assets/images/portfolio/wetterfühlich04.png",
+          "Wetterapp im Server"
+        ]
       ],
       "detailtext01": "Mit Unserer React JS App wollen wir ganzheitliche Reflektion und im besten Fall ein Umschreiben der eigenen, auch kulturell geprägten, Stereotype in der Wetter- und Farbwarnehmung bewirken. Tagebucheinträge lassen sich speichern und Man kann individuell die Farben je nach aktueller Temperatur, Windstärke und Regen. Über eine API wird das aktuelle Wetter gefeched und über einen Algorythmus in Farben umgewandelt.",
       "linklist": [
@@ -162,15 +165,15 @@
       "imageAltText1": "Artesana Instagramposts Übersicht Mockup",
       "projectDetails": [
         [
-          "./assets/images/portfolio/artesana02.png",
+          "../assets/images/portfolio/artesana02.png",
           "Artesana Instagramposts Übersicht"
         ],
         [
-          "./assets/images/portfolio/artesana03.jpg",
+          "../assets/images/portfolio/artesana03.jpg",
           "Artesana Instagramposts Übersicht Mockup"
         ],
-        ["./assets/images/portfolio/artesana04.jpg", "Artesana Visitenkarten"],
-        ["./assets/images/portfolio/artesana05.png", "Artesana Etsyshop"]
+        ["../assets/images/portfolio/artesana04.jpg", "Artesana Visitenkarten"],
+        ["../assets/images/portfolio/artesana05.png", "Artesana Etsyshop"]
       ],
       "detailtext01": "Ich entwickelte ich ein professionelles Verpackungsdesign mit individueller Note. Dazu gehört auch ein Linie von Produktphotos, welche sich ins Konzept eingliedern. Die Formsprache ist inspiriert von andinen, indigenen Mustern ganz im Stil des Schmucks und hat eine rustikale Konnotation.",
       "linklist": [
@@ -186,15 +189,15 @@
       "imageAltText1": "Memoires Memorie-Onlinespiel Startseite",
       "projectDetails": [
         [
-          "./assets/images/portfolio/memoires02.png",
+          "../assets/images/portfolio/memoires02.png",
           "Memoires Memorie-Onlinespiel webseite Spiel"
         ],
         [
-          "./assets/images/portfolio/memoires03.png",
+          "../assets/images/portfolio/memoires03.png",
           "Memoires Memorie-Onlinespiel webseite Spiel Punktestand"
         ],
         [
-          "./assets/images/portfolio/memoires04.png",
+          "../assets/images/portfolio/memoires04.png",
           "Memoires Memorie-Onlinespiel webseite Datenbankinhalt"
         ]
       ],

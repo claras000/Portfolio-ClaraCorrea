@@ -94,7 +94,7 @@ function Layout() {
                 <ul className=" ">
                   <li className="">
                     <Link
-                      to="/"
+                      to="/Portfolio-ClaraCorrea/"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -103,7 +103,7 @@ function Layout() {
                   </li>
                   <li className="md:pt-10">
                     <Link
-                      to="/ÜberMich"
+                      to="/Portfolio-ClaraCorrea/ÜberMich"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -112,7 +112,7 @@ function Layout() {
                   </li>
                   <li className="md:pt-10">
                     <Link
-                      to="/Kontakt"
+                      to="/Portfolio-ClaraCorrea/Kontakt"
                       onClick={visibility}
                       className="hover:text-white duration-300 cursor-pointer"
                     >
@@ -123,14 +123,14 @@ function Layout() {
                 <div className="md:flex pt-10 font-thin text-sm uppercase md:text-white">
                   <a
                     className="hover:cursor-pointer  md:hover:text-green"
-                    href="/Agb"
+                    href="/Portfolio-ClaraCorrea/Agb"
                   >
                     AGB
                   </a>
 
                   <a
                     className="hover:cursor-pointer pl-4  md:hover:text-green"
-                    href="/Impressum"
+                    href="/Portfolio-ClaraCorrea/Impressum"
                   >
                     Impressum
                   </a>

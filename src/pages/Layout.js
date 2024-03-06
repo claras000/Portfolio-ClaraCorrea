@@ -101,7 +101,7 @@ function Layout() {
                       Portfolio
                     </Link>
                   </li>
-                  <li className="md:pt-10">
+                  <li className="md:pt-10 pt-3">
                     <Link
                       to="/Portfolio-ClaraCorrea/ÜberMich"
                       onClick={visibility}
@@ -110,7 +110,7 @@ function Layout() {
                       Über Mich
                     </Link>
                   </li>
-                  <li className="md:pt-10">
+                  <li className="md:pt-10 pt-3">
                     <Link
                       to="/Portfolio-ClaraCorrea/Kontakt"
                       onClick={visibility}
@@ -121,19 +121,21 @@ function Layout() {
                   </li>
                 </ul>
                 <div className="md:flex pt-10 font-thin text-sm uppercase md:text-white">
-                  <a
+                  <Link
                     className="hover:cursor-pointer  md:hover:text-green"
-                    href="/Portfolio-ClaraCorrea/Agb"
+                    to="/Portfolio-ClaraCorrea/Agb"
+                    onClick={visibility}
                   >
                     AGB
-                  </a>
+                  </Link>
 
-                  <a
+                  <Link
                     className="hover:cursor-pointer pl-4  md:hover:text-green"
-                    href="/Portfolio-ClaraCorrea/Impressum"
+                    to="/Portfolio-ClaraCorrea/Impressum"
+                    onClick={visibility}
                   >
                     Impressum
-                  </a>
+                  </Link>
                 </div>
               </div>
               <div className=""></div>

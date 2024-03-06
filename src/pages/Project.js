@@ -57,9 +57,9 @@ const Project = () => {
 
             <div className="flex justify-start my-10">
               {linklist.map(([link, name], projectDetailskey) => (
-                <div key={projectDetailskey} className="md:mr-2">
+                <div key={projectDetailskey} className="md:mr-2 mr-1">
                   <a href={link} className="no-underline">
-                    <button className="bg-transparent text-grey hover:text-green hover:border-green border hover:animate-bounce border-grey py-1 px-2 m rounded-full whitespace-nowrap">
+                    <button className="bg-transparent text-grey hover:text-green hover:border-green border hover:animate-bounce border-grey py-1 px-2 rounded-full whitespace-nowrap">
                       {name}
                     </button>
                   </a>

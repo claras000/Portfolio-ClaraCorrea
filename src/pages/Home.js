@@ -32,6 +32,13 @@ const Home = () => {
     setHoveredIndex(null);
   };
 
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "instant",
+    });
+  };
+
   return (
     <>
       <div
@@ -147,6 +154,7 @@ const Home = () => {
                   to={`/Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
+                  onClick={scrollToTop}
                 >
                   <div
                     className={`flex md:pt-10 pt-3  ${
@@ -208,6 +216,7 @@ const Home = () => {
                   to={`/Portfolio-ClaraCorrea/project/${project.id}`}
                   component="0"
                   className="cursor-pointer"
+                  onClick={scrollToTop}
                 >
                   <img
                     src={project.image1}

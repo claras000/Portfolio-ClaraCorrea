@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { Tooltip, initTE } from "tw-elements";
 import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet"; //SEO
 
 const Home = () => {
   //effects
@@ -41,7 +42,14 @@ const Home = () => {
 
   return (
     <>
-      <div
+      <Helmet>
+        <title>Portofolio Clara Correa</title>
+        <meta
+          name="Porfoltio, Webdesign, Frontend, Webentwicklung, Clara Correa"
+          content="Webdesign und Webentwicklung Porfolio Bremen von Clara Correa"
+        />
+      </Helmet>
+      <header
         className="flex justify-start  bg-white text-grey relative z-0"
         id="header"
       >
@@ -113,7 +121,7 @@ const Home = () => {
             className="hidden md:block "
           ></img>
         </div>
-      </div>
+      </header>
 
       <div className="font-dmSans  md-m-0" id="portfolio">
         <div className="  md:text-center  mt-28 md:ml-0 ml-6">

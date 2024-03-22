@@ -9,7 +9,7 @@ function Footer() {
   };
 
   return (
-    <>
+    <footer>
       <div className="bg-white text-grey font-dmSans border-t-2 border-greenLight">
         <div className="max-w-screen-xl py-10 pb-0 px-4 sm:px-6 text-gray-800 sm:flex justify-between mx-auto">
           <div className="p-5 sm:w-2/12 md:pl-20">
@@ -130,7 +130,7 @@ function Footer() {
           </div>
         </div>
       </div>
-    </>
+    </footer>
   );
 }
 

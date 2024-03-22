@@ -69,19 +69,17 @@ const Project = () => {
           </div>
         </div>
         <div className="grid md:grid-cols-2 grid-cols-1 mt-10 mb-10 md:p-0 p-5">
-          <div>
-            {projectDetails.map(([src, alt], index) => (
-              <div key={index}>
-                <img
-                  src={src}
-                  alt={alt}
-                  className={`md:m-8 mb-5 relative md:w-3/4 rounded-xl aspect-square object-cover object-center
+          {projectDetails.map(([src, alt], index) => (
+            <div key={index}>
+              <img
+                src={src}
+                alt={alt}
+                className={`md:m-8 mb-5 relative md:w-3/4 rounded-xl aspect-square object-cover object-center
         ${index % 2 !== 0 ? "float-start" : "float-end"}
       `}
-                />
-              </div>
-            ))}
-          </div>
+              />
+            </div>
+          ))}
         </div>
       </div>
       <div id="footer">

@@ -68,21 +68,23 @@ const Project = () => {
             </div>
           </div>
         </div>
-        <div className="md:grid md:grid-cols-2 mt-10 mb-40 md:p-0 p-5">
-          {projectDetails.map(([src, alt], index) => (
-            <div key={index}>
-              <img
-                src={src}
-                alt={alt}
-                className={`md:m-8 mb-5 relative md:w-3/4 rounded-xl aspect-square object-cover object-center
+        <div className="grid md:grid-cols-2 grid-cols-1 mt-10 mb-10 md:p-0 p-5">
+          <div>
+            {projectDetails.map(([src, alt], index) => (
+              <div key={index}>
+                <img
+                  src={src}
+                  alt={alt}
+                  className={`md:m-8 mb-5 relative md:w-3/4 rounded-xl aspect-square object-cover object-center
         ${index % 2 !== 0 ? "float-start" : "float-end"}
       `}
-              />
-            </div>
-          ))}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
-      <div>
+      <div id="footer">
         <div className="bg-white text-grey font-dmSans border-t-2 border-greenLight">
           <div className="max-w-screen-xl py-10 pb-0 px-4 sm:px-6 text-gray-800 sm:flex justify-between mx-auto">
             <div className="p-5 sm:w-2/12 md:pl-20">

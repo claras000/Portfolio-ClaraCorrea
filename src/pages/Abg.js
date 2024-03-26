@@ -3,8 +3,8 @@ import Footer from "../components/Footer";
 const Agb = () => {
   return (
     <>
-      <div className="h-screen max-w-7xl mx-auto py-16 md:pt-36 md:px-4 px-5  pt-24">
-        <h1 className="md:text-6xl text-4xl   font-semibold leading-tight sm:text-4xl xl:text-5xl  text-grey">
+      <div className="md:h-screen max-w-7xl mx-auto py-16 md:pt-36 md:px-4 px-5  pt-24">
+        <h1 className="md:text-6xl text-3xl   font-semibold leading-tight sm:text-4xl xl:text-5xl  text-grey">
           Allgemeine Geschäftsbedingungen
         </h1>
         <p className=" text-grey  pt-2 font-extralight mt-10">

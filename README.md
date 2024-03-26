@@ -1,3 +1,15 @@
+# Portfolio Clara Correa
+
+# author
+Clara Correa 26.03
+
+# copyright
+all photos and other Media belong to Clare Correa
+
+# description
+this is the code for my Online Portfolio. It is a React App with the use of Tailwind.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

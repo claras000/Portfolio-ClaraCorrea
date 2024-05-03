@@ -120,7 +120,7 @@ function Footer() {
                   </svg>
                   <a
                     className="pl-2 group-hover:underline group-hover:cursor-pointer"
-                    href="clara.o.correa@web.de"
+                    href="mailto:clara.o.correa@web.de"
                   >
                     clara.o.correa@web.de
                   </a>

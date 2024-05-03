@@ -26,7 +26,7 @@ const ÜberMich = () => {
             abzutauchen, immer wieder neue Technologien zu erlernen und
             knifflige Probleme zu lösen macht mir sehr viel Spaß.
           </p>
-          <Link to="/Kontakt">
+          <Link to="/Portfolio-ClaraCorrea/Kontakt">
             <button className="flex items-center  px-5 pb-2 pt-2.5 text-lg  leading-normal  hover:animate-bounce text-white  bg-green hover:shadow-xl hover:bg-graugrün  text-emerald-100   rounded-full md:mt-10 mt-6">
               Schreib mir!
               <svg

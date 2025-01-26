@@ -5,6 +5,8 @@ Das Online Portfolio von Clara Correa zeigt arbeiten von Design und Implementier
 
 hier geht es zur Webseite: https://claras000.github.io/Portfolio-ClaraCorrea/
 
+![Webside Image](./img/webside01.png) ![Webside Image](./img/webside02.png) ![Webside Image](./img/webside03.png)
+
 ## Anwendung
 
 Projekt starten:

@@ -24,4 +24,4 @@ Projekt starten:
 Clara Correa 26.03
 
 ## Copyright
-all photos and other Media belong to Clare Correa
+all photos and other Media belong to Clara Correa
